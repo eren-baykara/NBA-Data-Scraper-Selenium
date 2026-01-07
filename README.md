@@ -1,6 +1,6 @@
 # 🕸️ Automated NBA Stats Scraper
 
-A robust web scraping pipeline designed to collect granular basketball data from NBA.com. This tool was built to feed the **Machine Learning Prediction Model** used in my [NBA Outcome Predictor project](https://github.com/erenbaykara/NBA-Match-Outcome-Predictor).
+A robust web scraping pipeline designed to collect granular basketball data from NBA.com. This tool was built to feed the **Machine Learning Prediction Model** used in my [NBA Outcome Predictor project](https://github.com/eren-baykara/NBA-Match-Outcome-Predictor).
 
 ## 🚀 Purpose
 Data is the fuel for any AI model. Standard datasets often lack specific details like "First Half Performance" or "Bench Scoring Impact." I built this scraper to:
